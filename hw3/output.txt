@@ -1974,7 +1974,7 @@ a	DT
 declaration	NN
 on	IN
 February	NNP
-3rd	CD
+3rd	NNP
 ,	,
 1983	CD
 ,	,
@@ -2334,7 +2334,7 @@ up	RP
 here	RB
 in	IN
 the	DT
-northwest	NN
+northwest	JJS
 with	IN
 a	DT
 murder	NN
@@ -2494,7 +2494,7 @@ out	IN
 blog	NN
 .	.
 
-hey	NN
+hey	NNP
 that	WDT
 's	VBZ
 a	DT
@@ -2723,7 +2723,7 @@ To	IN
 You	PRP
 .	.
 
-Get-A-Free-House.com	NFP
+Get-A-Free-House.com	NNP
 
 When	WRB
 the	DT
@@ -2853,7 +2853,7 @@ The	DT
 tonne	NN
 cache	NN
 of	IN
-AK47s	NNS
+AK47s	NNP
 was	VBD
 to	TO
 have	VB
@@ -3017,7 +3017,7 @@ guns	NNS
 ,	,
 from	IN
 the	DT
-90s	NNPS
+90s	RBS
 Bosnian	JJ
 war	NN
 ,	,
@@ -3468,7 +3468,7 @@ the	DT
 shape	NN
 of	IN
 an	DT
-inverted	JJ
+inverted	VBN
 cross	NN
 ,	,
 a	DT
@@ -3871,7 +3871,7 @@ southwestern	JJ
 US	NNP
 under	IN
 the	DT
-watchful	JJ
+watchful	NN
 yet	RB
 fairly	RB
 benign	JJ
@@ -4180,7 +4180,7 @@ Aryan	NNP
 Nations	NNPS
 and	CC
 the	DT
-neo-Nazi	JJ
+neo-Nazi	NN
 Creativity	NNP
 Movement	NNP
 ,	,
@@ -7649,7 +7649,7 @@ PDT	NNP
 In	IN
 scanning	VBG
 the	DT
-whitehouse.gov	JJ
+whitehouse.gov	NN
 site	NN
 today	NN
 ,	,
@@ -8076,7 +8076,7 @@ claims	NNS
 to	TO
 be	VB
 a	DT
-christian	JJ
+christian	NN
 ,	,
 yet	RB
 many	JJ
@@ -8703,9 +8703,9 @@ his	PRP$
 wife	NN
 Jan	NNP
 ,	,
-introduced	VBD
+introduced	VBN
 --	:
-reintroduced	VB
+reintroduced	VBN
 me	PRP
 and	CC
 Laura	NNP
@@ -10322,7 +10322,7 @@ succeeded	VBN
 in	IN
 politically	RB
 isolating	VBG
-Hamas	NNPS
+Hamas	NNS
 ,	,
 and	CC
 started	VBD
@@ -10625,7 +10625,7 @@ households	NNS
 We	PRP
 need	VBP
 an	DT
-FDR	NN
+FDR	NNP
 in	IN
 Iraq	NNP
 ,	,
@@ -10979,7 +10979,7 @@ quietly	RB
 .	.
 
 See	NNP
-http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	NNP
+http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	NN
 
 In	IN
 the	DT
@@ -11661,7 +11661,7 @@ have	VBP
 all	DT
 sorts	NNS
 of	IN
-ulterior	NN
+ulterior	JJ
 motives	NNS
 and	CC
 social	JJ
@@ -13380,8 +13380,8 @@ at	RB
 p.m.	NN
 EST	NN
 (	(
-2029	CD
-GMT	NNP
+2029	FW
+GMT	FW
 )	)
 
 WASHINGTON	NNP
@@ -15204,7 +15204,7 @@ substance	NN
 of	IN
 this	DT
 Big	NNP
-Lie	NNP
+Lie	NN
 is	VBZ
 to	TO
 risk	VB
@@ -16166,7 +16166,7 @@ appointed	VBN
 Richard	NNP
 Nixon	NNP
 's	POS
-postmaster	NN
+postmaster	JJ
 general	NN
 .	.
 
@@ -18447,7 +18447,7 @@ Ed	NNP
 Wong	NNP
 of	IN
 the	DT
-NYT	NN
+NYT	NNP
 has	VBZ
 more	JJR
 on	IN
