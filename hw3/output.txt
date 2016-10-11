@@ -2631,8 +2631,8 @@ How	WRB
 Would	MD
 You	PRP
 Like	IN
-To	TO
-Know	VB
+To	IN
+Know	NNP
 How	WRB
 YOU	PRP
 Can	MD
@@ -2683,7 +2683,7 @@ Do	VBP
 n't	RB
 Let	VB
 This	DT
-Pass	NN
+Pass	NNP
 You	PRP
 By	IN
 Without	IN
@@ -2772,7 +2772,7 @@ end	NN
 Bob	NNP
 Dylan	NNP
 
-Afraid	RB
+Afraid	NNP
 I	PRP
 do	VBP
 n't	RB
@@ -3371,7 +3371,7 @@ the	DT
 trial	NN
 of	IN
 Toledo	NNP
-priest	FW
+priest	NN
 Gerald	NNP
 Robinson	NNP
 .	.
@@ -5622,7 +5622,7 @@ void	NN
 Richard	NNP
 ,	,
 
-i	NNS
+i	PRP
 agree	VBP
 ,	,
 Hmmmmmm	NNP
@@ -6204,7 +6204,7 @@ In	IN
 January	NNP
 1998	CD
 Fabio	NNP
-Tollis	NNPS
+Tollis	NNP
 and	CC
 Chiara	NNP
 Marino	NNP
@@ -6357,7 +6357,7 @@ closely	RB
 linked	VBN
 
 Michele	NNP
-Tollis	NNPS
+Tollis	NNP
 
 It	PRP
 emerged	VBD
@@ -7011,7 +7011,7 @@ Babalon	NNP
 and	CC
 the	DT
 actually	RB
-Whore	RB
+Whore	JJ
 of	IN
 Babylon	NNP
 ,	,
@@ -7537,9 +7537,9 @@ in	IN
 -	HYPH
 road	NN
 into	IN
-'	''
-Loose	NNP
-Change	NNP
+'	``
+Loose	FW
+Change	FW
 "	FW
 -	HYPH
 "	FW
@@ -11222,8 +11222,8 @@ fight	NN
 that	WDT
 left	VBD
 one	CD
-Iraqi	NNS
-dead	JJ
+Iraqi	JJ
+dead	NN
 .	.
 
 In	IN
@@ -11454,8 +11454,8 @@ it	PRP
 has	VBZ
 turned	VBN
 even	RB
-Iraqi	NNP
-Shiites	NNP
+Iraqi	JJ
+Shiites	NNS
 ,	,
 who	WP
 were	VBD
@@ -11653,7 +11653,7 @@ mess	NN
 )	)
 
 The	DT
-Neocons	NNS
+Neocons	NNPS
 in	IN
 the	DT
 CPA	NNP
@@ -14463,7 +14463,7 @@ of	IN
 
 Wolfowitz	NNP
 contradicted	VBD
-counter-terrorism	NN
+counter-terrorism	JJ
 czar	NN
 Richard	NNP
 Clarke	NNP
@@ -15119,8 +15119,8 @@ a	DT
 handful	NN
 of	IN
 Texas	NNP
-multi-millionnaires	VBZ
-close	RB
+multi-millionnaires	NNS
+close	JJ
 to	IN
 the	DT
 Bush	NNP
@@ -17201,9 +17201,9 @@ the	DT
 sheikh	NN
 of	IN
 the	DT
-mujahideen	FW
-Osama	FW
-bin	FW
+mujahideen	JJ
+Osama	NNP
+bin	NN
 Laden	NNP
 .	.
 "	NNP
@@ -17606,8 +17606,8 @@ on	IN
 the	DT
 order	NN
 of	IN
-Protestant	NNP
-Pietists	NNP
+Protestant	JJ
+Pietists	NNS
 )	)
 .	.
 
@@ -17797,7 +17797,7 @@ cooperate	VB
 even	RB
 if	IN
 rather	RB
-lukewarmly	JJ
+lukewarmly	RB
 )	)
 with	IN
 the	DT
@@ -19341,8 +19341,8 @@ This	DT
 is	VBZ
 a	DT
 largely	RB
-Sunni	NNP
-Arab	NNP
+Sunni	JJ
+Arab	JJ
 clan	NN
 ,	,
 and	CC
@@ -20421,7 +20421,7 @@ on	IN
 my	PRP$
 neck	NN
 started	VBD
-enlarging	JJ
+enlarging	VBG
 --	:
 they	PRP
 said	VBD
